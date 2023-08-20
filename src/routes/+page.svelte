@@ -22,7 +22,7 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/test today 20th August 2023</strong>
+		try editing <strong>Env2/test today 20th August 2023</strong>
 	</h2>
 
 	<Counter />
