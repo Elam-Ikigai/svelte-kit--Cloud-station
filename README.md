@@ -1,27 +1,15 @@
 ---
 title: SvelteKit
-description: A simple SvelteKit app
+description: A simple SvelteKit app deployed on Cloudstation
 tags:
   - svelte
   - typescript
----
-
-# SvelteKit Example
-
-This example is a simple [SvelteKit](https://kit.svelte.dev/) app.
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/svelte-kit)
 
 ## ✨ Features
 
 - Svelte
 - TypeScript
 
-## 💁‍♀️ How to use
-
-- Install dependencies `yarn`
-- Connect to your Railway project `railway link`
-- Start the development server `railway run yarn dev`
 
 ## 📝 Notes
 
